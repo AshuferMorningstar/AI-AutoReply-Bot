@@ -11,6 +11,24 @@ An intelligent WhatsApp Web auto-reply bot that uses OpenAI's GPT model to gener
 - **Screen Automation**: Uses PyAutoGUI for interacting with WhatsApp Web interface
 - **Clipboard Integration**: Seamlessly copies and pastes messages
 
+## 🛠️ Tools & Technologies Used
+
+### Core Technologies
+- **Python 3.7+** - Main programming language
+- **OpenAI API** - GPT-3.5-turbo model for intelligent response generation
+- **WhatsApp Web** - Target platform for automation
+
+### Python Libraries
+- **PyAutoGUI** - Screen automation and mouse/keyboard control
+- **Pyperclip** - Clipboard operations for copying and pasting text
+- **OpenAI Python SDK** - Official OpenAI API client
+- **Time** - Built-in module for delays and timing control
+
+### Development Tools
+- **Chrome Browser** - Required for WhatsApp Web interface
+- **Screen Coordinate Detection** - Custom utility for UI element positioning
+- **Real-time Chat Monitoring** - Continuous message detection system
+
 ## 📋 Requirements
 
 - Python 3.7+
